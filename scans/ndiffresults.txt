@@ -1,0 +1,9 @@
+-Nmap 7.92 scan initiated Thu Jan 13 12:47:51 2022 as: nmap --open -p- -oX - localhost
++Nmap 7.92 scan initiated Thu Jan 13 13:52:08 2022 as: nmap --open -p- -oX - localhost
+
+-localhost (127.0.0.1):
+-Host is up.
+-Not shown: 65533 closed ports
+-PORT   STATE SERVICE VERSION
+-22/tcp open  ssh
+-80/tcp open  http
