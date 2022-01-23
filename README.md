@@ -9,8 +9,7 @@ Installation instructions for port scan system are provided here.
 ## Dependency Setup
 Install [argparse](https://pypi.org/project/argparse/)>=1.4.0, [plyer](https://pypi.org/project/plyer/)>=2.0.0
 ```
-pip install argparse
-pip install plyer
+pip install -r requirements.txt
 ```
 
 Install the [nmap](https://nmap.org/), [ndiff](https://nmap.org/book/ndiff-man.html) tools. For example:
